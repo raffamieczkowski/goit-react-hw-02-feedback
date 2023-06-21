@@ -1,5 +1,9 @@
 .statistics {
-  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.statistics h2 {
+  margin-bottom: 10px;
 }
 
 .statistics p {
@@ -7,5 +11,10 @@
 }
 
 .statistics span {
+  font-weight: bold;
+}
+
+.statistics .notification {
+  color: red;
   font-weight: bold;
 }
